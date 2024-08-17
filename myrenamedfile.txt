@@ -1,0 +1,3 @@
+I want to append to this files text please
+This is my text
+This should append text not replace it
